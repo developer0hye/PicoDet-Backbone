@@ -1,5 +1,5 @@
 # PicoDet-Backbone
-PyTorch Implementation of Backbone of [PicoDet](https://arxiv.org/abs/2111.00902)
+PyTorch Implementation of **Backbone** of [PicoDet](https://arxiv.org/abs/2111.00902)
 
 ![image](https://user-images.githubusercontent.com/35001605/144397123-9ceb1316-7ff2-41f7-9294-2822fa8f96fb.png)
 
