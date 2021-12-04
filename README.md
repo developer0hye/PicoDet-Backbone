@@ -13,4 +13,6 @@ PyTorch Implementation of **Backbone** of [PicoDet](https://arxiv.org/abs/2111.0
 picodet_l_backbone = ESNet(scale=1.25, 
                      feature_maps=[4, 11, 14], 
                      channel_ratio=[0.875, 0.5, 1.0, 0.625, 0.5, 0.75, 0.625, 0.625, 0.5, 0.625, 1.0, 0.625, 0.75])
+...
+c3, c4, c5 = picodet_l_backbone(input) 
 ```
